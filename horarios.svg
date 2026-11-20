@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%" height="180">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#054A5E" />
+      <stop offset="100%" stop-color="#1D7A85" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" fill="url(#bg3)" />
+  <circle cx="800" cy="90" r="55" fill="none" stroke="#48C9B0" stroke-width="6" opacity="0.4" />
+  <text x="50" y="85" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#FFFFFF">Horários e Valores</text>
+  <text x="50" y="122" font-family="Arial, sans-serif" font-size="18" fill="#D1F2EB">Atendimento flexível de segunda a sábado para consultas e exames.</text>
+</svg>

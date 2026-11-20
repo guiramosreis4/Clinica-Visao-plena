@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%" height="180">
+  <defs>
+    <linearGradient id="bg4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1D7A85" />
+      <stop offset="100%" stop-color="#054A5E" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" fill="url(#bg4)" />
+  <text x="50" y="85" font-family="Arial, sans-serif" font-size="34" font-weight="bold" fill="#FFFFFF">Fale Conosco</text>
+  <text x="50" y="122" font-family="Arial, sans-serif" font-size="18" fill="#D1F2EB">Agende sua consulta, tire dúvidas ou veja como chegar até nós.</text>
+</svg>
