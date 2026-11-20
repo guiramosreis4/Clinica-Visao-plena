@@ -48,8 +48,7 @@ clinica-visao-plena/
 ---
 
 ## 🚀 Como Visualizar o Projeto
-
-https://github.com/guiramosreis4/Clinica-Visao-plena
+[https://guiramosreis4.github.io/Clinica-Visao-plena/index.html]
 
 ## 👨‍💻 Autor
 
